@@ -12,3 +12,5 @@ _deps
 /Vidéos
 **.mp4
 **.zip
+*/bin
+*/build
